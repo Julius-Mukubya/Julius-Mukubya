@@ -14,7 +14,6 @@
   ✨ Creating bugs since 2023<br>
   📚 I'm currently learning about different tools, languages and frameworks within field of Web Application Development<br>
   🎯 Goals: To become a better Developer<br>
-  🎲 Fun fact: I started coding out of curiosity, and now I can’t stop debugging my own curiosity! 🚀  
 </p>
 
 ###
