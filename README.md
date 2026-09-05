@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Julius%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&multiline=true&width=650&height=100&lines=const+developer+%3D+%7B;+++name%3A+%27Mukubya+Julius%27%2C;+++role%3A+%27Software+Developer%27;%7D%3B" />
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@ location: Kampala, Uganda
 focus: Full-Stack • Mobile Development • UI/UX • SaaS Platforms
 currently_building: SaaS & mobile products with AI-assisted workflows
 learning: Advanced system design & scalable mobile architectures
-fun_fact: I once built a snake game out of my GitHub contribution graph 🐍
 ```
 
 ---
@@ -94,5 +93,5 @@ fun_fact: I once built a snake game out of my GitHub contribution graph 🐍
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=60&lines=console.log(%27Thanks+for+visiting!+⭐%27)%3B" />
 </p>
